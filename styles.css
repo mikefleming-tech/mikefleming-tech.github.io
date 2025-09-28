@@ -6,10 +6,6 @@ nav ul{
     margin: 0;
 }
 
-/* #navbar{
-
-} */
-
 .nav-buttons{
     padding: 10px;
     display:flex;
@@ -55,11 +51,6 @@ img{
     align-items: center;
 }
 
-/* nav{
-    display: flex;
-    align-items: center;
-} */
-
 .resume-list{
     list-style-type: none;
 }
@@ -79,7 +70,7 @@ nav ul li a{
     text-align: center;
     border: none;
     text-decoration: none;
-    color: #118AB2;
+    color: black;
     padding: 1em;
     border-radius: 10px;
 }
