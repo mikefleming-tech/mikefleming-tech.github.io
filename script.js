@@ -23,7 +23,6 @@ portfolioLink.textContent = "Portfolio";
 ul.appendChild(home);
 ul.appendChild(resume);
 ul.appendChild(portfolio);
-// ul.classList.add("nav-ul");
 nav.appendChild(ul);
 body.prepend(nav);
 
